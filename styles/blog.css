@@ -1,0 +1,7 @@
+div{
+    background-color: aquamarine;
+    border: 10px 20px 30px 40px solid purple;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 20px blue;
+}
